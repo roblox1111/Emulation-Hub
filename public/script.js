@@ -23,3 +23,4 @@ themeToggle.addEventListener('click', () => {
 
 // Set initial theme based on user preference
 setTheme(isDarkMode);
+
